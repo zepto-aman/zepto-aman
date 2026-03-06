@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Aman's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=zepto-aman&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zepto-aman&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats-eight-
