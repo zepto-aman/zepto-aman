@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zepto-aman&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats-eight-
+### 📊 Activity Overview
+
+[![Aman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zepto-aman&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 📈 Stats Summary
+
+![Aman's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=zepto-aman&show_icons=true&theme=github_dark&hide_border=true)
